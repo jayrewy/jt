@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="190f72f4-0526-4227-9152-60d6e115bbee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hlGFDu8wsE6licgqomQlra7uH5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootRun (1)">
+    <configuration name="HttpClient.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jt-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jt.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jt.test" />
+      <option name="MAIN_CLASS_NAME" value="com.jt.test.HttpClient" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHttpClient.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jt-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jt.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jt.test" />
+      <option name="MAIN_CLASS_NAME" value="com.jt.test.TestHttpClient" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRun (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jt-manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jt.SpringBootRun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRun" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jt-sso" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jt.SpringBootRun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestHttpClient.testGet" />
+        <item itemvalue="Spring Boot.SpringBootRun (1)" />
+        <item itemvalue="JUnit.HttpClient.testGet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="190f72f4-0526-4227-9152-60d6e115bbee" name="Default Changelist" comment="" />
+      <created>1600578159775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600578159775</updated>
+      <workItem from="1600578166651" duration="5211000" />
+    </task>
+    <task id="LOCAL-00001" summary="jt-项目完成">
+      <created>1600583496730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600583496730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jt-项目完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="jt-项目完成" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="870" y="102" key="CommitChangelistDialog2" timestamp="1600583494676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="870" y="102" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600583494676" />
+    <state x="1112" y="290" key="FileChooserDialogImpl" timestamp="1600582846319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1112" y="290" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600582846319" />
+    <state x="1204" y="432" width="256" height="300" key="Github.ShareDialog" timestamp="1600584226213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1204" y="432" width="256" height="300" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600584226213" />
+    <state width="1113" height="256" key="GridCell.Tab.0.bottom" timestamp="1600580737102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1113" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600580737102" />
+    <state width="1113" height="256" key="GridCell.Tab.0.center" timestamp="1600580737102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1113" height="256" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600580737102" />
+    <state width="1113" height="256" key="GridCell.Tab.0.left" timestamp="1600580737101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1113" height="256" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600580737101" />
+    <state width="1113" height="256" key="GridCell.Tab.0.right" timestamp="1600580737102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1113" height="256" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600580737102" />
+    <state width="1113" height="256" key="GridCell.Tab.1.bottom" timestamp="1600580737103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1113" height="256" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600580737103" />
+    <state width="1113" height="256" key="GridCell.Tab.1.center" timestamp="1600580737102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1113" height="256" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600580737102" />
+    <state width="1113" height="256" key="GridCell.Tab.1.left" timestamp="1600580737102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1113" height="256" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600580737102" />
+    <state width="1113" height="256" key="GridCell.Tab.1.right" timestamp="1600580737103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1113" height="256" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600580737103" />
+    <state x="833" y="167" key="SettingsEditor" timestamp="1600583655971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600583655971" />
+  </component>
+</project>
